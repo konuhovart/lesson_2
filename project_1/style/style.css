@@ -1,0 +1,27 @@
+p{
+    margin: 30px 10px;
+    color: black
+}
+h1{
+    margin: 30px 10px;
+    color: #34495E
+}
+.first{
+  background-color: #3498DB;  
+  margin: 40px 10px;
+}
+.second{
+    background-color:#8E44AD ;
+    margin: 40px 10px;
+}
+.third{
+    background-color: #16A085;
+    margin: 40px 10px;
+}
+.links a{
+    text-decoration: none;
+    margin:   5px;
+}
+.links img{
+width: 100px;
+}
